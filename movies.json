@@ -1,0 +1,25 @@
+{
+    "movies": [
+        {
+            "title": "shawshank redemption",
+            "year": 1994,
+            "director": "Frank Darabont",
+            "genre": "drama",
+            "cover": "someimageurl.jpg"
+        },
+        {
+            "title": "the godfather",
+            "year": 1972,
+            "director": "Francis Ford Coppola",
+            "genre": "crime",
+            "cover": "someimageurl.jpg"
+        },
+        {
+            "title": "the dark knight",
+            "year": 2008,
+            "director": "Christopher Nolan",
+            "genre": "action",
+            "cover": "someimageurl.jpg"
+        }
+    ]
+}
