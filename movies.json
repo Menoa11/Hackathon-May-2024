@@ -1,25 +1,282 @@
-{
-    "movies": [
-        {
-            "title": "shawshank redemption",
-            "year": 1994,
-            "director": "Frank Darabont",
-            "genre": "drama",
-            "cover": "someimageurl.jpg"
-        },
-        {
-            "title": "the godfather",
-            "year": 1972,
-            "director": "Francis Ford Coppola",
-            "genre": "crime",
-            "cover": "someimageurl.jpg"
-        },
-        {
-            "title": "the dark knight",
-            "year": 2008,
-            "director": "Christopher Nolan",
-            "genre": "action",
-            "cover": "someimageurl.jpg"
-        }
-    ]
-}
+[
+    {
+        "title": "Clipshout   (2024)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=CLIP",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_62fy6qcd/height/148"
+    },
+    {
+        "title": "ClipShout with Learning Guides for Character Education   (2024)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=CLIP2",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_rtsqgxya/height/148"
+    },
+    {
+        "title": "The Heart Stays   (2024)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=IND0305",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_3w074cni/height/148"
+    },
+    {
+        "title": "Marmalade   (2024)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=A71291",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_rb6jvct4/height/148"
+    },
+    {
+        "title": "80 for Brady / 80 pour Brady   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=PF16462",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_axk069yu/height/148"
+    },
+    {
+        "title": "Aliens Abducted My Parents and Now I Feel Kinda Left Out   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=A71272",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_h4ssb7lu/height/148"
+    },
+    {
+        "title": "Bank of Dave   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=SG00575",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_cozdh64d/height/148"
+    },
+    {
+        "title": "Barber   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=A71271",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_k271tpgu/height/148"
+    },
+    {
+        "title": "Barbie / Barbie (v.f.)   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=W2083554",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_0extt3ap/height/148"
+    },
+    {
+        "title": "Blackberry / Blackberry (v.f.)   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=111081E",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_xosh3z7b/height/148"
+    },
+    {
+        "title": "Blue Beetle / Blue Beetle (v.f.)   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=W2082942",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_3y92axsd/height/148"
+    },
+    {
+        "title": "The Boogeyman / Le Croque-mitaine   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=F3011358",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_rjb5hvcw/height/148"
+    },
+    {
+        "title": "Butterfly Tale / La l\u00e9gende du papillon   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=A71274",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_u64mwzzr/height/148"
+    },
+    {
+        "title": "Bystanders   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=A71262",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_byyk8cpk/height/148"
+    },
+    {
+        "title": "The Channel   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=A71267",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_2mamdpz9/height/148"
+    },
+    {
+        "title": "Coco Ferme / Coco Ferme (v.f.)   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=A08839",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_h2q4r8oh/height/148"
+    },
+    {
+        "title": "The Creator / Le cr\u00e9ateur   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=F3056857",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_51ek7i7r/height/148"
+    },
+    {
+        "title": "Creed III / Creed III (v.f.)   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=W2113426",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_i5pj15yk/height/148"
+    },
+    {
+        "title": "Dangerous Waters   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=A71273",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_i98sgic8/height/148"
+    },
+    {
+        "title": "Dark Windows   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=A71269",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_9jvucy5i/height/148"
+    },
+    {
+        "title": "Devil's Peak   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=A71257",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_uzefw4fr/height/148"
+    },
+    {
+        "title": "The Dishwasher / Le plongeur   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=IMM0003",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_ym9nhcjh/height/148"
+    },
+    {
+        "title": "Dungeons & Dragons: Honor Among Thieves / Donjons et dragons: L'honneur des voleurs   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=PF16399",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_d357nowq/height/148"
+    },
+    {
+        "title": "Evil Dead Rise / L'op\u00e9ra de la terreur: Renaissance   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=W2106879",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_m73a2fhd/height/148"
+    },
+    {
+        "title": "Exile   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=A71293",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_0yl6dn0j/height/148"
+    },
+    {
+        "title": "Farador / Farador (v.f.)   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=A08841",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_dt6s2o5k/height/148"
+    },
+    {
+        "title": "The Flash / The Flash (v.f.)   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=W2041167",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_wchxy4rf/height/148"
+    },
+    {
+        "title": "The Forest King   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=RIRS1E2",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_p32au1tp/height/148"
+    },
+    {
+        "title": "Galatea   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=IND0281",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_tpnqsuja/height/148"
+    },
+    {
+        "title": "Going In   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=A71278",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_ryn9zzgc/height/148"
+    },
+    {
+        "title": "The Graceless Age: The Ballad of John Murry   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=A71299",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_j5co0szy/height/148"
+    },
+    {
+        "title": "A Haunting in Venice / Myst\u00e8re \u00e0 Venise   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=F2399759",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_2hdxyvpq/height/148"
+    },
+    {
+        "title": "The Headmistress   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=IND0278",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_493vym4h/height/148"
+    },
+    {
+        "title": "The Highest of Stakes   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=IND0303",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_d6qvpvof/height/148"
+    },
+    {
+        "title": "House Party / House Party (v.f.)   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=W2081354",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_jtxurval/height/148"
+    },
+    {
+        "title": "Kings of L.A.   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=IND0263",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_x6p3dw3h/height/148"
+    },
+    {
+        "title": "The Lie: The Murder of Grace Millane   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=A71297",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_1xam9zms/height/148"
+    },
+    {
+        "title": "Lord   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=RIRS1E5",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_ueprtv52/height/148"
+    },
+    {
+        "title": "Magic Mike's Last Dance / Magic Mike: Derni\u00e8re danse   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=W2106922",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_t6srloz9/height/148"
+    },
+    {
+        "title": "Match Struck   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=IND0276",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_k328mrxg/height/148"
+    },
+    {
+        "title": "Mind, Body & Soul   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=IND0304",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_c0tcr0c3/height/148"
+    },
+    {
+        "title": "Mission: Impossible - Dead Reckoning Part One / Mission: Impossible - Bilan mortel, Premi\u00e8re partie   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=PF16951",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_qxvo89wy/height/148"
+    },
+    {
+        "title": "Mummies / Mummies (v.f.)   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=W2081568",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_a6cu6q9y/height/148"
+    },
+    {
+        "title": "My Mother's Men / Les hommes de ma m\u00e8re   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=IMM0006",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_wtl7i13p/height/148"
+    },
+    {
+        "title": "No.8 Reporting   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=RIRS1E6",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_b35jle63/height/148"
+    },
+    {
+        "title": "One Summer / Le temps d'un \u00e9t\u00e9   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=IMM0004",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_35eddphl/height/148"
+    },
+    {
+        "title": "Outlaw Johnny Black   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=SG00579",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_uli1vdqz/height/148"
+    },
+    {
+        "title": "Paw Patrol the Mighty Movie / La Pat' Patrouille: La super patrouille - Le film   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=111111E",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_9a7trhdl/height/148"
+    },
+    {
+        "title": "Queen Tut   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=A71298",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_w1qt4hlf/height/148"
+    },
+    {
+        "title": "Raging Grace   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=A71280",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_fmyz9vz8/height/148"
+    },
+    {
+        "title": "The Ratcatcher's Daughter   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=RIRS1E3",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_dxjejdp7/height/148"
+    },
+    {
+        "title": "Red Iron Road, Season 1   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=S0002726",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_8wqnbk27/height/148"
+    },
+    {
+        "title": "Sacrilege: The Unholy Radicalization of Europe   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=A71302",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_4bgedv9f/height/148"
+    },
+    {
+        "title": "Scream VI / Frissons VI   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=PF16587",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_5ioycv0f/height/148"
+    },
+    {
+        "title": "Shadow Island   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=A71270",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_0kskb1tx/height/148"
+    },
+    {
+        "title": "Shazam! Fury of the Gods / Shazam! La Rage des Dieux   (2023)",
+        "link": "https://media3-criterionpic-com.ezproxy.library.uvic.ca/htbin/wwform/006?T=W2084030",
+        "image": "https://cfvod.kaltura.com/p/2037912/sp/203791200/thumbnail/entry_id/1_89ozrd3p/height/148"
+    }
+]
